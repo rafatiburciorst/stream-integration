@@ -1,5 +1,8 @@
 # BACKEND AND FRONTEND STREAM INTEGRATION
 
+## Description
+Simple integration between node js and javascript frontend using Streams concepts for heavy data.
+
 ## Start backend
 
 1. cd src
